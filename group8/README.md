@@ -11,5 +11,5 @@ Go to website.
 Group Name: 8
 
 Members:
- A
- S
+ Anishka
+ Sofia
