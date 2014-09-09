@@ -8,8 +8,8 @@ Go to website.
 
 [Group Mascot]
 
-Group Name:
+Group Name: 8
 
 Members:
-* Member 1
-* Member 2
+ A
+ S
